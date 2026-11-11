@@ -2,9 +2,6 @@
 
 A collaborative hackathon for exploring carbon-cycle questions with Earth Observation data using [EO-LINCS](https://www.eo-lincs.org/) for carbon-science data access and workflows, and [DeepESDL / Earth System Data Lab](https://earthsystemdatalab.net/) as the working platform.
 
-![https://www.eo-lincs.org/assets/images/concepts/concept_outline.png](https://www.eo-lincs.org/assets/images/concepts/concept_outline.png)
-*Taken from EO-LINCS Approach https://www.eo-lincs.org/#eo-lincs-approach-and-objectives*
-
 ## Start here
 
 | Resource | What you will find |
