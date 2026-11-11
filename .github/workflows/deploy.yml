@@ -1,0 +1,55 @@
+# This file was created automatically with `myst init --gh-pages` 🪄 💚
+# Ensure your GitHub Pages settings for this repository are set to deploy with **GitHub Actions**.
+name: MyST GitHub Pages Deploy
+on:
+  push:
+    # Runs on pushes targeting the default branch
+    branches: [main]
+env:
+  # `BASE_URL` determines the website is served from, including CSS & JS assets
+  # You may need to change this to `BASE_URL: ''`
+  BASE_URL: /${{ github.event.repository.name }}
+# Build tools only receive read access to the repository.
+permissions:
+  contents: read
+# Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
+# However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4
+        with:
+          node-version: 24.x
+      - name: Install MyST Markdown
+        run: npm install -g mystmd@1.6.3 --ignore-scripts
+      # Build without executing notebooks - no Python environment needed
+      - name: Build HTML Assets (no execution)
+        run: myst build --html
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@56afc609e74202658d3ffba0e8f6dda462b719fa # v3
+        with:
+          path: "./_build/html"
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Setup Pages
+        uses: actions/configure-pages@b8130d9ab958b325bbde9786d62f2c97a9885a0e # v3
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@d6db90164ac5ed86f2b6aed7e0febac5b3c0c03e # v4

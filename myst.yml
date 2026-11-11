@@ -1,0 +1,46 @@
+# See https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  title: Carbon Hackathon
+  description: Explore Carbon-Related Earth Observation datasets, EO-LINCS workflows, and the DeepESDL platform.
+  authors:
+    - name: European Space Agency
+      affiliations:
+        - id: ESA
+          institution: ESA
+          ror: https://ror.org/03wd9za21
+  github: https://github.com/ESA-EarthCODE/carbon_hackathon
+  open_access: true
+  license:
+    content: CC-BY-4.0
+    code: Apache-2.0
+  copyright: "2026"
+  toc:
+    - file: 0_Introduction/intro.ipynb
+    - title: Introduction
+      children:
+        - file: 0_Introduction/agenda.md
+          title: Agenda
+        - file: 0_Introduction/instructors.md
+          title: Organisers and instructors
+        - file: 0_Introduction/discourse.md
+          title: Discussion forum
+        - file: 0_Introduction/eo-lincs.md
+          title: EO-LINCS
+        - file: 0_Introduction/Workspace/workspace.md
+          title: DeepESDL platform
+  subject: earth and related environmental sciences
+
+site:
+  title: Carbon Hackathon
+  template: book-theme
+  options:
+    folders: true
+    logo: static/EarthCODE_kv_transparent.png
+  actions:
+    - title: Learn about EarthCODE
+      url: https://earthcode.esa.int
+    - title: EO-LINCS
+      url: https://www.eo-lincs.org/
+    - title: Open DeepESDL
+      url: https://deep.earthsystemdatalab.net/

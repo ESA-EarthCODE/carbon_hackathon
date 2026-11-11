@@ -1,0 +1,19 @@
+# Documentation builds
+_build/
+
+# Downloaded data and generated analysis outputs
+downloaded_data/
+outputs/
+
+# Local environments and notebook caches
+.pixi/
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local credentials and operating-system files
+.env
+.env.*
+!.env.example
+.DS_Store
