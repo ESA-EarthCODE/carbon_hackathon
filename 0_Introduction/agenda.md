@@ -1,10 +1,13 @@
 # Carbon Hackathon agenda
 
-**Dates:** 23rd–25th November 2026
+**Online Dates:** 23rd–25th November 2026
 
 **Time zone:** CET (UTC+1).
 
-## 23rd — Introductions and tutorials
+**In-Person Hackathon Dates:** 30th Nov –4th Dec 2026
+
+
+## 23rd Nov 2026 — Introductions and tutorials
 
 | Time (CET) | Session | Lead |
 | --- | --- | --- |
@@ -15,14 +18,17 @@
 | 15:30–16:30 | EO-LINCS tutorial | Konstantin |
 
 
-## 24th — Coworking
+## 24th Nov 2026 — Coworking
 
-Coworking time to explore data and develop individual or team analyses.
+Work on your own time to explore data and develop individual or team analyses.
 
-## 25th — Questions and consolidation
+## 25th Nov 2026  — Q&A
 
 | Time (CET) | Session |
 | --- | --- |
-| 15:00–16:00 | Questions and consolidation |
+| 15:00–16:00 | Q&A |
 
-Bring questions, initial results, and feedback from the coworking day.
+Bring questions, initial results, and feedback from the previous day to prepare for the in-person hackathon.
+
+
+**In-Person Hackathon Dates:** 30th Nov –4th Dec 2026
