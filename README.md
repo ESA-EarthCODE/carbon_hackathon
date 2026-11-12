@@ -1,6 +1,6 @@
 # Carbon Hackathon
 
-This repository contains the resources for the online and in-person part of the EarthCODE Hackathon 30 Nov - 04 Dec. The focus is on creating data pipelinesusing [EO-LINCS](https://www.eo-lincs.org/) for carbon-science data access and workflows, and [DeepESDL / Earth System Data Lab](https://earthsystemdatalab.net/) as the working platform.
+This repository contains the resources for the online and in-person part of the EarthCODE Hackathon 30 Nov - 04 Dec 2026. The focus is on contributing to data pipelines developed within ESA Project [EO-LINCS](https://www.eo-lincs.org/) _(Earth Observation, Local and Integrated data eNquiry for Terrestrial Carbon Science)_. for carbon-science data access and workflows, and [DeepESDL / Earth System Data Lab](https://earthsystemdatalab.net/) as the working platform.
 
 ## Start here
 
@@ -12,18 +12,23 @@ This repository contains the resources for the online and in-person part of the 
 | [EO-LINCS](0_Introduction/eo-lincs.md) | Project background, data-access tools, and carbon-science examples. |
 | [DeepESDL platform](0_Introduction/Workspace/workspace.md) | Platform overview, access, and getting started in JupyterLab. |
 
+## About
+The intention of this Hackathon is to bring together the data producers and scientific users from various terrestrial carbon projects to test the practical usability of the datasets, benchmarking data access and extraction workflows, while exploiting as well the publication process and implementation of FAIR open science into [EarthCODE](https://earthcode.esa.int/). Further, it aims to test how easy it is to re-use these data for creating other uncertainty aware carbon data products and workflows to improve EO, ICOS, or modelling datasets for carbon-budget assessments and carbon monitoring in various scales from small areas of interest to regional scale. The data access and processing pipelines will be facilitated by the open source tools and workfows, such as those developed within ESA Project EO-LINCS. EO-LINCS was launched to promote a community effort towards an **enhanced multi-mission assessment of the terrestrial carbon cycle at resolutions in space and time** compatible with decision making by **improving the access to the Earth Observation (EO) data for the wider carbon scientific community.**
+
 ## What we will work on
 
-Work on your own research, explore the available data and tools, or develop a pipeline that others can understand and reuse. EO-LINCS provides examples spanning carbon fluxes, forest recovery, model–data relationships, and vegetation-model benchmarking. These are starting points for choosing a question; participants can bring their own ideas. See the [EO-LINCS science cases](https://www.eo-lincs.org/science-cases.html) and the [Agenda](0_Introduction/agenda.md) for more.
+Work on your own research, explore the available data and tools, or develop a pipeline that others can understand and reuse. EO-LINCS provides examples spanning carbon fluxes, forest recovery, model–data relationships, and vegetation-model benchmarking. These are starting points for choosing a question; participants are encouraged to bring their own ideas too. See the [EO-LINCS science cases](https://www.eo-lincs.org/science-cases.html) and the [Agenda](0_Introduction/agenda.md) for more.
 
 ## Suggested workflow
 
 1. Read the [platform guide](0_Introduction/Workspace/workspace.md) and confirm your access before the first session.
 2. Join the introductions and EO-LINCS tutorial on the 23rd Nov.
 3. Choose a question and a set of relevant variables, locations, and dates.
-4. Start working on it on 24th, 25th Nov
-5. Bring results, questions, and feedback to the consolidation session on the 25th.
-6. Continue working on your idea during the in-person hackathon starting on the 30th Nov.
+4. Work on selected topic individually or in the team on 24-27th Nov.
+5. Bring results, questions, and feedback to the consolidation session on the 25th Nov.
+6. Continue working on your idea or choose another topic and team during the in-person hackathon starting on the 30th Nov.
+
+* *Practical information related to in-person event will be provided in separate communication from ESA Conference Bureau*
 
 
 ## Suggested focus areas
