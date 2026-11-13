@@ -24,4 +24,10 @@
 - **GitHub:** [u3ks](https://github.com/u3ks)
 - **ORCID:** [0009-0002-1336-4199](https://orcid.org/0009-0002-1336-4199)
 
+### Ewelina Dobrowolska
+
+- **Affiliation:**  [Serco S.p.A. for ESA](https://www.serco.com/eu/sector-expertise/space), Rome, Italy
+- **LinkedIn:** [Ewelina Dobrowolska](https://www.linkedin.com/in/ewelina-dobrowolska-8180b717b/))
+- **GitHub:** [edobrowolska](https://github.com/edobrowolska)
+  
 For shared questions and discussion, use [EarthCODE Discourse](discourse.md).
