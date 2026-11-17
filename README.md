@@ -6,11 +6,11 @@ This repository contains the resources for the online and in-person part of the 
 
 | Resource | What you will find |
 | --- | --- |
-| [Agenda](0_Introduction/agenda.md) | Sessions for the online hackathon on the 23rd, 25th Nov |
-| [Organisers and instructors](0_Introduction/instructors.md) | Hackathon team and session leads. |
-| [Discussion forum](0_Introduction/discourse.md) | EarthCODE Discourse for questions, ideas, and shared findings. |
-| [EO-LINCS](0_Introduction/eo-lincs.md) | Project background, data-access tools, and carbon-science examples. |
-| [DeepESDL platform](0_Introduction/Workspace/workspace.md) | Platform overview, access, and getting started in JupyterLab. |
+| [Agenda](https://esa-earthcode.github.io/carbon_hackathon/introduction/agenda)) | Sessions for the online hackathon on the 23rd, 25th Nov |
+| [Organisers and instructors](https://esa-earthcode.github.io/carbon_hackathon/introduction/instructors) | Hackathon team and session leads. |
+| [Discussion forum](https://esa-earthcode.github.io/carbon_hackathon/introduction/discourse) | EarthCODE Discourse for questions, ideas, and shared findings. |
+| [EO-LINCS](https://esa-earthcode.github.io/carbon_hackathon/introduction/eo-lincs) | Project background, data-access tools, and carbon-science examples. |
+| [DeepESDL platform](https://esa-earthcode.github.io/carbon_hackathon/introduction/workspace/workspace) | Platform overview, access, and getting started in JupyterLab. |
 
 ## About
 The intention of this Hackathon is to bring together the data producers and scientific users from various terrestrial carbon projects to test the practical usability of the datasets, benchmarking data access and extraction workflows, while exploiting as well the publication process and implementation of FAIR open science into [EarthCODE](https://earthcode.esa.int/). Further, it aims to test how easy it is to re-use these data for creating other uncertainty aware carbon data products and workflows to improve EO, ICOS, or modelling datasets for carbon-budget assessments and carbon monitoring in various scales from small areas of interest to regional scale. The data access and processing pipelines will be facilitated by the open source tools and workfows, such as those developed within ESA Project EO-LINCS. EO-LINCS was launched to promote a community effort towards an **enhanced multi-mission assessment of the terrestrial carbon cycle at resolutions in space and time** compatible with decision making by **improving the access to the Earth Observation (EO) data for the wider carbon scientific community.**
@@ -21,7 +21,7 @@ Work on your own research, explore the available data and tools, or develop a pi
 
 ## Suggested workflow
 
-1. Read the [platform guide](0_Introduction/Workspace/workspace.md) and confirm your access before the first session.
+1. Read the [platform guide](https://esa-earthcode.github.io/carbon_hackathon/introduction/workspace/workspace) and confirm your access before the first session.
 2. Join the introductions and EO-LINCS tutorial on the 23rd Nov.
 3. Choose a question and a set of relevant variables, locations, and dates.
 4. Work on selected topic individually or in the team on 24-27th Nov.
