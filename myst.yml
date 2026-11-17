@@ -16,7 +16,7 @@ project:
     code: Apache-2.0
   copyright: "2026"
   toc:
-    - file: 0_Introduction/intro.ipynb
+    - file: 0_Introduction/intro.md
     - title: Introduction
       children:
         - file: 0_Introduction/agenda.md
@@ -25,10 +25,14 @@ project:
           title: Organisers and instructors
         - file: 0_Introduction/discourse.md
           title: Discussion forum
-        - file: 0_Introduction/eo-lincs.md
-          title: EO-LINCS
         - file: 0_Introduction/Workspace/workspace.md
           title: DeepESDL platform
+        - file: 0_Introduction/xcube-data-acess.md
+          title: Data access with xcube
+        - file: 0_Introduction/eo-lincs.md
+          title: EO-LINCS examples
+
+
   subject: earth and related environmental sciences
 
 site:

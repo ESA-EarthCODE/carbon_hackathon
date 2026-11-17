@@ -27,7 +27,19 @@
 ### Ewelina Dobrowolska
 
 - **Affiliation:**  [Serco S.p.A. for ESA](https://www.serco.com/eu/sector-expertise/space), Rome, Italy
-- **LinkedIn:** [Ewelina Dobrowolska](https://www.linkedin.com/in/ewelina-dobrowolska-8180b717b/))
+- **LinkedIn:** [Ewelina Dobrowolska](https://www.linkedin.com/in/ewelina-dobrowolska-8180b717b/)
 - **GitHub:** [edobrowolska](https://github.com/edobrowolska)
+
+
+### Konstantin Ntokas
+
+- **Affiliation:**  [Brockmann Consult](https://www.brockmann-consult.de/), Hamburg, Germany
+- **LinkedIn:** [Konstantin Ntokas](https://www.linkedin.com/in/konstantin-ntokas-17a420123/)
+- **GitHub:** [konstntokas](https://github.com/konstntokas)
+
+###  Jacob Nelson 
+
+- **Affiliation:**  [Max Planck Institute for Biogeochemistry](https://www.bgc-jena.mpg.de/en), Jena, Germany
+- **GitHub:** [jnelson18](https://github.com/jnelson18)
   
 For shared questions and discussion, use [EarthCODE Discourse](discourse.md).

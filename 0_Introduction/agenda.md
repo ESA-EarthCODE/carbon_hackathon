@@ -13,9 +13,9 @@
 | --- | --- | --- |
 | 14:00–14:15 | Welcome from ESA | Stephen Plummer (ESA)|
 | 14:15–14:35 | Big Picture, objectives, scope | Jacob Nelson (EO-LINCS, MPI-BGC) |
-| 14:35–15:15 | Introduction to the DeepESDL platform | Konstantin Ntokas (EO-LINCS, Brockmann Consult)|
+| 14:35–15:15 | Introduction to the DeepESDL platform and xcube | Konstantin Ntokas (EO-LINCS, Brockmann Consult)|
 | 15:15–15:30 | Break | — |
-| 15:30–16:30 | EO-LINCS tutorial | Konstantin Ntokas (EO-LINCS, Brockmann Consult) |
+| 15:30–16:30 | EO-LINCS tutorial | Jacob Nelson (EO-LINCS, MPI-BGC) |
 | 16:30–17:00 | Open discussion, questions | — |
 
 
