@@ -2,24 +2,24 @@
 
 This repository contains resources for the online and in-person parts of the EarthCODE Hackathon, taking place from 30 November to 4 December.
 
-The hackathon focuses on developing reusable data pipelines for carbon science. You will work in [DeepESDL](Workspace/workspace.md), access and combine data with [xcube](../1_Data_Access/xcube-data-acess.md), and adapt ideas from [EO-LINCS science cases](eo-lincs.md).
+The hackathon focuses on developing reusable data pipelines for carbon science. You will work in [DeepESDL](Workspace/workspace.md), access and combine data with [xcube](../1_Data_Access/xcube-data-acess.md), and adapt ideas from [EO-LINCS science cases](../1_Data_Access/eo-lincs.md).
 
 ## How the resources fit together
 
 1. **Work in [DeepESDL](Workspace/workspace.md).** The platform provides the shared JupyterLab environment, compute, storage, and interactive data tools for the hackathon.
 2. **Find and prepare data with [xcube](../1_Data_Access/xcube-data-acess.md).** Learn how xcube data stores provide a consistent way to access data and how xcube-multistore harmonises data from several sources.
-3. **Develop a research idea with [EO-LINCS examples](eo-lincs.md).** Use the project’s science cases and reusable workflows as starting points for your own question.
+3. **Develop a research idea with [EO-LINCS examples](../1_Data_Access/eo-lincs.md).** Use the project’s science cases and reusable workflows as starting points for your own question.
 
 The [agenda](agenda.md) describes the sessions and dates. Meet the [organisers and instructors](instructors.md), and use the [EarthCODE Discourse forum](discourse.md) to ask questions and share findings.
 
 ## What we will work on
 
-Work on your own research, explore the available data and tools, or develop a pipeline that others can understand and reuse. The [EO-LINCS examples](eo-lincs.md) provide starting points spanning carbon fluxes, forest recovery, model–data relationships, and vegetation-model benchmarking; you are equally welcome to bring your own question.
+Work on your own research, explore the available data and tools, or develop a pipeline that others can understand and reuse. The [EO-LINCS examples](../1_Data_Access/eo-lincs.md) provide starting points spanning carbon fluxes, forest recovery, model–data relationships, and vegetation-model benchmarking; you are equally welcome to bring your own question.
 
 ## Suggested workflow
 
 1. Read the [DeepESDL platform guide](Workspace/workspace.md) and confirm access to the [DeepESDL Hub](https://deep.earthsystemdatalab.net/) with your GitHub login.
-2. Browse the [xcube data-access guide](../1_Data_Access/xcube-data-acess.md) and one or two [EO-LINCS examples](eo-lincs.md).
+2. Browse the [xcube data-access guide](../1_Data_Access/xcube-data-acess.md) and one or two [EO-LINCS examples](../1_Data_Access/eo-lincs.md).
 3. Join the introductions and EO-LINCS tutorial on 23 November, then develop your idea during the coworking days.
 4. Choose a question, relevant variables, locations, and dates.
 5. Bring initial results, questions, and feedback to the consolidation session on 25 November.

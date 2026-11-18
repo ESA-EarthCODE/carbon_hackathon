@@ -27,10 +27,12 @@ project:
           title: Discussion forum
         - file: 0_Introduction/Workspace/workspace.md
           title: DeepESDL platform
+    - title: Data Access
+      children:
+        - file: 1_Data_Access/eo-lincs.md
+          title: EO-LINCS examples
         - file: 1_Data_Access/xcube-data-acess.md
           title: Data access with xcube
-        - file: 0_Introduction/eo-lincs.md
-          title: EO-LINCS examples
 
 
   subject: earth and related environmental sciences
