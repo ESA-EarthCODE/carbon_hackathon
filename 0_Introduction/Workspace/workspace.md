@@ -1,26 +1,45 @@
 # DeepESDL platform
 
-The hackathon will use **DeepESDL — the Deep Earth System Data Laboratory**, available through [Earth System Data Lab](https://earthsystemdatalab.net/). It provides a virtual research environment and access to Earth Science data in analysis-ready cubes, with support for machine learning and cloud computing.
+[DeepESDL](https://earthsystemdatalab.net/)—the Deep Earth System Data Laboratory—is the working environment for the hackathon. It is a cloud-native platform for scalable, reproducible Earth-science workflows using harmonised, analysis-ready data cubes. Use it to explore data, develop and run notebooks, collaborate with your team, and share results.
 
-## What the platform provides
+## Get access
 
-The [DeepESDL services](https://earthsystemdatalab.net/services/) include:
+1. Open the [DeepESDL Hub](https://deep.earthsystemdatalab.net/).
+2. Sign in with your GitHub account.
+3. Open JupyterLab and choose an available Python environment.
+4. Start with a notebook from the [example-notebook catalogue](https://earthsystemdatalab.net/guide/jupyterlab/notebooks/) or create your own.
 
-- A hosted JupyterLab environment for notebooks and analysis.
-- Shared team storage and S3 integration.
-- Python environments, Dask-based processing, and GPU support.
-- Access to data through `xcube` data stores.
-- Visualisation with tools such as the xcube Viewer.
-- Integration with EarthCODE for publishing data and reproducible workflows.
+If you have problems signing in or accessing resources, contact [Konstantin Ntokas](mailto:konstantin.ntokas@brockmann-consult.de).
 
-## Working with data
+## What you can use
 
-DeepESDL supports both on-demand access through `xcube` data stores and pre-generated cubes in object storage - [data guide](https://earthsystemdatalab.net/guide/data/)
+- **JupyterLab** for notebooks, analysis, and sharing reproducible workflows.
+- **xcube integration** for on-demand data access, processing, exploration, and visualisation. See the [xcube data-access guide](../xcube-data-acess.md).
+- **Scalable computing** with Dask-based processing and GPU support where available.
+- **Shared team storage and S3 integration** for collaboration and intermediate results.
+- **Visualisation tools**, including xcube Viewer in a notebook and as a dedicated service. A deployed example is the [DeepESDL Data Viewer](https://viewer.earthsystemdatalab.net/).
+- **EarthCODE integration** to publish data and reproducible workflows.
 
-## Documentation and useful links
+## Storage
 
-- [Earth System Data Lab](https://earthsystemdatalab.net/) — platform overview.
-- [Current user guide](https://earthsystemdatalab.net/guide/) — the starting point for platform instructions.
-- [DeepESDL Hub](https://deep.earthsystemdatalab.net/) — sign in to the working environment.
-- [Data viewer](https://viewer.earthsystemdatalab.net/) — explore published cubes.
-- [Legacy DeepESDL documentation](https://deepesdl.readthedocs.io/en/latest/) — this site marks itself as outdated and directs readers to Earth System Data Lab; use the current guide above for setup.
+Choose storage based on the size and purpose of your files. Team storage is shared: all team members can change its contents, and it does not provide change tracking.
+
+- **Personal workspace storage:** Use this for notebooks and small datasets. It has a soft limit of 50 GB; you will be notified if you exceed it.
+- **Team shared storage:** Use the team’s 250 GB block storage to share notebooks, intermediate results, and small data files with collaborators.
+- **Team S3 storage:** Use the team’s 250 GB S3 storage for data cubes and other larger cloud-friendly outputs, for example datasets to explore with xcube Viewer.
+
+## Custom Conda environments
+
+Create a custom environment when the standard kernels do not include a package you need. Follow the [DeepESDL guide for creating custom team Python environments](https://earthsystemdatalab.net/guide/jupyterlab/jupyterlab/#creating-custom-team-python-environment).
+
+- **Personal environments** are visible only to you. They remain available across every team of which you are a member.
+- **Team environments** are visible to all members of the team. They are also available to you across your teams.
+
+## Useful links
+
+- [Earth System Data Lab overview](https://earthsystemdatalab.net/)
+- [DeepESDL user guide](https://earthsystemdatalab.net/guide/)
+- [DeepESDL data overview](https://earthsystemdatalab.net/data/)
+- [DeepESDL Hub](https://deep.earthsystemdatalab.net/)
+- [Example notebooks](https://earthsystemdatalab.net/guide/jupyterlab/notebooks/)
+- [Data viewer](https://viewer.earthsystemdatalab.net/)
