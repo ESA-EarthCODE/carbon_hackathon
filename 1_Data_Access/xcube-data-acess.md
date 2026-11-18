@@ -1,6 +1,6 @@
-# Data access with xcube
+# Data access with Xcube
 
-[xcube](https://xcube.readthedocs.io/en/latest/) is an open-source Python framework for working with Earth Observation data as analysis-ready data cubes. In this hackathon, it connects data sources to the analysis you run in [DeepESDL](Workspace/workspace.md).
+[xcube](https://xcube.readthedocs.io/en/latest/) is an open-source Python framework for working with Earth Observation data as analysis-ready data cubes. In this hackathon, it connects data sources to the analysis you run in [DeepESDL](../0_Introduction/Workspace/workspace.md).
 
 You do not need to learn every xcube component before starting. The useful mental model is:
 
@@ -62,7 +62,7 @@ Typical workflow:
 
 The result is either one data cube on a consistent grid or a catalogue of separate, consistently described datasets.
 
-![Conceptual overview of the xcube-multistore package](image.png)
+![Conceptual overview of the xcube-multistore package](../0_Introduction/image.png)
 
 For a concrete workflow, start with the [data-extraction example](https://xcube-dev.github.io/xcube-multistore/examples/example2/data_extraction/) and use the [how-to guides](https://xcube-dev.github.io/xcube-multistore/howto/) to adapt the configuration.
 

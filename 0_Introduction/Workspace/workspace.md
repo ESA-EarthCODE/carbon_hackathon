@@ -14,7 +14,7 @@ If you have problems signing in or accessing resources, contact [Konstantin Ntok
 ## What you can use
 
 - **JupyterLab** for notebooks, analysis, and sharing reproducible workflows.
-- **xcube integration** for on-demand data access, processing, exploration, and visualisation. See the [xcube data-access guide](../xcube-data-acess.md).
+- **xcube integration** for on-demand data access, processing, exploration, and visualisation. See the [xcube data-access guide](../../1_Data_Access/xcube-data-acess.md).
 - **Scalable computing** with Dask-based processing and GPU support where available.
 - **Shared team storage and S3 integration** for collaboration and intermediate results.
 - **Visualisation tools**, including xcube Viewer in a notebook and as a dedicated service. A deployed example is the [DeepESDL Data Viewer](https://viewer.earthsystemdatalab.net/).

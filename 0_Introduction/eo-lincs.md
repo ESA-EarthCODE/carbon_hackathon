@@ -2,7 +2,7 @@
 
 [EO-LINCS](https://www.eo-lincs.org/)—**Earth Observation, Local and Integrated data eNquiry for Terrestrial Carbon Science**—is an ESA Carbon Science Cluster project. It brings together satellite observations, local measurements, and modelling to support research on the terrestrial carbon cycle.
 
-For this hackathon, EO-LINCS is a source of research questions, example workflows, and practical experience of combining data across spatial scales, time periods, and levels of representativeness. The project’s data-access tooling is described in the [xcube guide](xcube-data-acess.md); this page focuses on how to use the examples.
+For this hackathon, EO-LINCS is a source of research questions, example workflows, and practical experience of combining data across spatial scales, time periods, and levels of representativeness. The project’s data-access tooling is described in the [xcube guide](../1_Data_Access/xcube-data-acess.md); this page focuses on how to use the examples.
 
 ## Use an example as a starting point
 
@@ -18,7 +18,7 @@ The examples span carbon fluxes, forest recovery, model–data relationships, an
 
 1. Define the scientific question and the intended outcome.
 2. Identify the variables, location, time period, and relevant input datasets.
-3. Use [DeepESDL](Workspace/workspace.md) to explore the data and [xcube](xcube-data-acess.md) to access or harmonise it.
+3. Use [DeepESDL](Workspace/workspace.md) to explore the data and [xcube](../1_Data_Access/xcube-data-acess.md) to access or harmonise it.
 4. Record any changes needed to make the workflow work in the new setting.
 5. Share reusable code, a notebook, and observations about limitations or missing data.
 
