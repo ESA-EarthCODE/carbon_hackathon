@@ -25,7 +25,7 @@ If you have problems signing in or accessing resources, contact [Konstantin Ntok
 Choose storage based on the size and purpose of your files. Team storage is shared: all team members can change its contents, and it does not provide change tracking.
 
 - **Personal workspace storage:** Use this for notebooks and small datasets. It has a soft limit of 50 GB; you will be notified if you exceed it.
-- **Team shared storage:** Use the team’s `share` storage to share notebooks, intermediate results, and small data files with collaborators.
+- **Team shared storage:** Use the team’s `share` storage (total ~50GB) to share notebooks, intermediate results, and small data files with collaborators.
 - **Team S3 storage:** Use the team’s S3 storage ``bucket`` for data cubes and other larger cloud-friendly outputs.
 
 ## Custom Conda environments

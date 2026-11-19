@@ -18,7 +18,7 @@ Work on your own research, explore the available data and tools, or develop a pi
 
 ## Suggested workflow
 
-1. Register on the [DeepESDL EarthCode Hackathon 2026 Hub](https://workspace.deepesdl-earthcode-hackathon-2026.deepesdl-v2.eox.at/home) with you GitHub login and read the [DeepESDL platform guide](Workspace/workspace.md).
+1. Register on the [DeepESDL EarthCode Hackathon 2026 Hub](https://workspace.deepesdl-earthcode-hackathon-2026.deepesdl-v2.eox.at/home) with your GitHub login and read the [DeepESDL platform guide](Workspace/workspace.md).
 2. Browse the [xcube data-access guide](../1_Data_Access/xcube-data-acess.md) and one or two [EO-LINCS examples](../1_Data_Access/eo-lincs.md).
 3. Join the introductions and EO-LINCS tutorial on 23 November, then develop your idea during the coworking days.
 4. Choose a question, relevant variables, locations, and dates.
