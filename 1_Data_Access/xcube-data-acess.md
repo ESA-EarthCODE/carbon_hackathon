@@ -5,9 +5,9 @@
 You do not need to learn every xcube component before starting. The useful mental model is:
 
 1. **Use a data store** to find and open a dataset.
-2. **Subset and prepare it** for your question—for example by variable, area, period, projection, or resolution.
+2. **Subset and prepare it** for your question—for example by variable, area, temporal sampling, projection, or resolution.
 3. **Combine and harmonize multiple datasets** with xcube-multistore.
-4. **Analyse and visualise** the resulting cube in a notebook.
+4. **Analyse and visualise** the resulting cube in a notebook or xcube Viewer.
 
 ## Use xcube data stores
 
@@ -28,11 +28,11 @@ The main write-store operations are:
 - `write_data(dataset, data_id, ...)` to write a dataset.
 - `delete_data(data_id)` to permanently delete a dataset—use this with care.
 
-For the full interface, see the [xcube data-access documentation](https://xcube.readthedocs.io/en/latest/dataaccess.html). The [DeepESDL data guide](https://earthsystemdatalab.net/guide/data/) describes data available on the platform.
+For the full interface, see the [xcube data-access documentation](https://xcube.readthedocs.io/en/latest/dataaccess.html). The [DeepESDL data guide](https://earthsystemdatalab.net/data/) describes data available on the platform.
 
 ## Start with DeepESDL examples
 
-DeepESDL provides both pre-generated cubes in object storage and on-demand access through xcube data stores. Start with a ready-to-run example in the [DeepESDL notebook catalogue](https://earthsystemdatalab.net/guide/jupyterlab/notebooks/).
+DeepESDL provides both pre-generated cubes in object storage and on-demand access through xcube data stores. Start with examples in the [DeepESDL notebook catalogue](https://earthsystemdatalab.net/guide/jupyterlab/notebooks/).
 
 Some examples for data access:
 
@@ -65,6 +65,7 @@ The result is either one data cube on a consistent grid or a catalogue of separa
 ![Conceptual overview of the xcube-multistore package](../0_Introduction/image.png)
 
 For a concrete workflow, start with the [data-extraction example](https://xcube-dev.github.io/xcube-multistore/examples/example2/data_extraction/) and use the [how-to guides](https://xcube-dev.github.io/xcube-multistore/howto/) to adapt the configuration.
+Guidance on setting up a configuration file is provided in the [Setup Config YAML File notebook](https://xcube-dev.github.io/xcube-multistore/examples/setup_config/).
 
 
 ## Summary of resources
