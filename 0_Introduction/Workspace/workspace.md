@@ -4,10 +4,10 @@
 
 ## Get access
 
-1. Open the [DeepESDL Hub](https://deep.earthsystemdatalab.net/).
+1. Open the [DeepESDL EarthCode Hackathon 2026 Hub](https://workspace.deepesdl-earthcode-hackathon-2026.deepesdl-v2.eox.at/home).
 2. Sign in with your GitHub account.
 3. Open JupyterLab and choose an available Python environment.
-4. Start with a notebook from the [example-notebook catalogue](https://earthsystemdatalab.net/guide/jupyterlab/notebooks/) or create your own.
+4. Start with a notebook from the [example-notebook catalogue](https://github.com/deepesdl/deepesdl-doc/tree/main/notebooks) or create your own.
 
 If you have problems signing in or accessing resources, contact [Konstantin Ntokas](mailto:konstantin.ntokas@brockmann-consult.de).
 
@@ -25,8 +25,8 @@ If you have problems signing in or accessing resources, contact [Konstantin Ntok
 Choose storage based on the size and purpose of your files. Team storage is shared: all team members can change its contents, and it does not provide change tracking.
 
 - **Personal workspace storage:** Use this for notebooks and small datasets. It has a soft limit of 50 GB; you will be notified if you exceed it.
-- **Team shared storage:** Use the team’s 250 GB block storage to share notebooks, intermediate results, and small data files with collaborators.
-- **Team S3 storage:** Use the team’s 250 GB S3 storage for data cubes and other larger cloud-friendly outputs, for example datasets to explore with xcube Viewer.
+- **Team shared storage:** Use the team’s `share` storage (total ~50GB) to share notebooks, intermediate results, and small data files with collaborators.
+- **Team S3 storage:** Use the team’s S3 storage ``bucket`` for data cubes and other larger cloud-friendly outputs.
 
 ## Custom Conda environments
 
