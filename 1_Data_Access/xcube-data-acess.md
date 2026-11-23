@@ -39,10 +39,6 @@ Some examples for data access:
 - [Access Sentinel-2 data from the Copernicus Data Space Ecosystem](https://earthsystemdatalab.net/guide/jupyterlab/notebooks/xcube-datastores/Access_Sentinel2_data_from_CDSE/)
 - [Access data from Zenodo](https://earthsystemdatalab.net/guide/jupyterlab/notebooks/xcube-datastores/Access_data_from_Zenodo/)
 
-Some examples of how to use shared team storage:
-
-- [Save a datacube to your team storage](https://earthsystemdatalab.net/guide/jupyterlab/notebooks/team-storage/Save_cube_to_team_storage/)
-- [How to upload files to shared team S3 storage](https://earthsystemdatalab.net/guide/jupyterlab/notebooks/team-storage/Upload_files_to_shared_team_s3_storage/)
 
 ## Explore and visualise datasets
 
@@ -74,6 +70,6 @@ Guidance on setting up a configuration file is provided in the [Setup Config YAM
 - [xcube-multistore documentation](https://xcube-dev.github.io/xcube-multistore/)
 - [Available xcube-multistore data stores](https://xcube-dev.github.io/xcube-multistore/data/)
 - [EO-LINCS guide to xcube-multistore](https://www.eo-lincs.org/xcube-multistore.html)
-- [DeepESDL example notebooks](https://earthsystemdatalab.net/guide/jupyterlab/notebooks/)
+- [DeepESDL example notebooks](https://github.com/deepesdl/deepesdl-doc/tree/main/notebooks)
 - [NoR webinar: the xcube ecosystem](https://www.youtube.com/watch?v=ClGl9nk5K04&list=PLvT7fd9OiI9Ws9QtfIxJjUM-RgQbpkpuJ&index=6): end-to-end example of data access, manipulation, persistance, and exploration/ visualization.
 - [EOPF webinar: xcube-eopf plugin](https://www.youtube.com/watch?v=w4_KPUtWZ4w): end-to-end example for new EOPF Sentinel-2 Zarr Samples.  
