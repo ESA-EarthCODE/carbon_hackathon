@@ -40,6 +40,6 @@ Create a custom environment when the standard kernels do not include a package y
 - [Earth System Data Lab overview](https://earthsystemdatalab.net/)
 - [DeepESDL user guide](https://earthsystemdatalab.net/guide/)
 - [DeepESDL data overview](https://earthsystemdatalab.net/data/)
-- [DeepESDL Hub](https://deep.earthsystemdatalab.net/)
-- [Example notebooks](https://earthsystemdatalab.net/guide/jupyterlab/notebooks/)
+- [DeepESDL Hub](https://workspace.deepesdl-earthcode-hackathon-2026.deepesdl-v2.eox.at)
+- [Example notebooks](https://github.com/deepesdl/deepesdl-doc/tree/main/notebooks)
 - [Data viewer](https://viewer.earthsystemdatalab.net/)
