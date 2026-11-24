@@ -18,6 +18,8 @@
 | 15:30–16:30 | EO-LINCS tutorial | Jacob Nelson (EO-LINCS, MPI-BGC) |
 | 16:30–17:00 | Open discussion, questions | — |
 
+Presentations from the first session can be found within the workspace under /shared/deepesdl-earthcode-hackathon-2026/presentations/ 
+Presentation from Jacob Nelson (EO-LINCS) can be found here: [https://www.bgc-jena.mpg.de/~jnelson/CarbonHackathonPremeeting/#/](https://www.bgc-jena.mpg.de/~jnelson/CarbonHackathonPremeeting/#/)
 
 ## 24th Nov 2026 — Coworking
 
