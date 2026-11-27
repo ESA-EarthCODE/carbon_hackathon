@@ -33,8 +33,10 @@ project:
           title: Data access with xcube
         - file: 1_Data_Access/eo-lincs.md
           title: EO-LINCS examples
-
-
+        - file: 1_Data_Access/sen4amazonas/access.ipynb
+          title: Access to forest cover (Sen4Amazonas)
+        - file: 1_Data_Access/sen4gpp/access.ipynb
+          title: Access to Gross primary productivity ( Sen4gpp )
 
   subject: earth and related environmental sciences
 
